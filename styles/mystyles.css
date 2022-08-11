@@ -1,0 +1,59 @@
+/* Cameron Hammond 8/11/2022 */
+
+.header {
+    padding-top: 100px;
+}
+
+h1 {
+    color: rgb(233, 233, 233);
+}
+.bold {
+    font-weight: bold;
+}
+.hyperlink {
+    color: rgb(93, 195, 229);
+}
+
+body {
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    background-color: rgb(234, 237, 240)
+    
+}
+.generalfont {
+     font-family: Arial, Helvetica, sans-serif; 
+}
+.image {
+    float: right;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+  }
+.interpagelinks {
+    text-decoration: none;
+    
+}
+
+.test {
+    color: none;
+}
+.white {
+    color: white;
+}
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    text-decoration: none;
+  }
+  
+a:hover {
+    text-decoration: underline;
+  }
+  
+a:active {
+    text-decoration: underline;
+  }
